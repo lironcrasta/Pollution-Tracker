@@ -1,0 +1,8 @@
+Overall AQI: 140.0
+Category: Unhealthy for Sensitive Groups
+Suggestion: Limit outdoor activities for sensitive groups; consider using air purifiers indoors.
+Individual AQI Values:
+  PM2.5: 128.57142857142858
+  PM10: 140.0
+  CO2: 104.0
+  SO2: 106.66666666666667
